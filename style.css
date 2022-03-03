@@ -1,6 +1,7 @@
 * {
-    box-sizing: border box
+    box-sizing: border box;
 }
+
 body {
     color:solid rgba(22, 16, 16, 0.753);
     background-color: rgba(107, 142, 196, 0.555);
@@ -16,8 +17,8 @@ div {
     height: 497px;
     background-color: rgba(253, 253, 253, 0.973);
     border-radius: 15px;
-
 }
+
 .titre {
     font-family: 'Outfit', sans-serif;
     font-size: 22px;
@@ -25,7 +26,7 @@ div {
     letter-spacing: 0px;
     text-align: center;
     color: hsl(218, 44%, 22%);
-    }
+ }
 
 .sous-titre {
     font-family: 'Outfit', sans-serif;
@@ -35,12 +36,13 @@ div {
 
     text-align: center;
     color: hsl(220, 15%, 55%);
-    }
+}
+
 #qrcode {
     border-radius: 15px;
     margin-top: 20px;
     transition: 1s ease;
-   }
+}
 
 #qrcode:hover {
     transform: scale(1.02);
