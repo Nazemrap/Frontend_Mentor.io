@@ -36,7 +36,7 @@ With the help of VCS Studio
 
 ### What I learned
 
-How to use github, i think i passed more time to understand how to upload and especially make a live site due to a problem in the deploying. I figured out that in the css they was one ";"missing. </br>
+How to use github, i think i passed more time to understand how to upload and especially make a live site due to a problem in the deploying. I figured out that in the css there was one ";"missing. </br>
 By using "root" you HAVE to name your html "index" </br>
 with just that two change it passed from full red to full green. 
 
